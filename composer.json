@@ -17,7 +17,8 @@
         "drupal/video": "^1.2",
         "drupal/xmlsitemap": "^1.0@alpha",
         "drupal/bootstrap": "^3.17",
-        "drupal/core": "^8.5"
+        "drupal/core": "^8.5",
+        "drupal/webform": "^5.1"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
