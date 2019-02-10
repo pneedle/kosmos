@@ -16,6 +16,9 @@
   "dependencies": {
     "laravel-mix": "^4.0.14"
   },
+  "dependencies": {
+  "ejs": ">=2.5.5"
+  },
   "devDependencies": {
     "sass": "^1.16.1",
     "sass-loader": "^7.1.0"
