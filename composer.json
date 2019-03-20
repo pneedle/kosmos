@@ -20,7 +20,8 @@
         "drupal/core": "^8.5",
         "drupal/webform": "^5.1",
         "drupal/devel": "^2.0",
-        "drupal/webform_views": "^5.0"
+        "drupal/webform_views": "^5.0",
+        "drupal/php": "^1.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
