@@ -1,0 +1,7 @@
+natal.content:
+  path: '/natal'
+  defaults:
+    _controller: '\Drupal\natal\Controller\NatalController::content'
+    _title: 'Natal Info!'
+  requirements:
+    _permission: 'access content'

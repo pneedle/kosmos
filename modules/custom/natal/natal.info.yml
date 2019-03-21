@@ -1,0 +1,26 @@
+name: Natal Module
+description: Creates a page showing "Natal Info".
+package: Custom
+
+type: module
+core: 8.x
+
+dependencies:
+  - drupal:link
+  - drupal:views
+  - paragraphs:paragraphs
+  - webform:webform (>=8.x-5.x)
+
+test_dependencies:
+ - drupal:image
+
+configure: natal.settings
+
+php: 5.6
+
+#hidden: true 
+
+# Note: do not add the 'version' or 'project' properties yourself.
+# They will be added automatically by the packager on drupal.org.
+# version: 1.0
+# project: 'natal'
