@@ -21,7 +21,8 @@
         "drupal/webform": "^5.1",
         "drupal/devel": "^2.0",
         "drupal/webform_views": "^5.0",
-        "drupal/php": "^1.0"
+        "drupal/php": "^1.0",
+        "drupal/paragraphs": "^1.7"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
